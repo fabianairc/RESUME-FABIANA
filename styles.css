@@ -1,0 +1,45 @@
+body {
+  padding: 20px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(105, 105, 236);
+  background-color: rgba(245, 245, 245, 0.589);
+  color: rgb(176, 173, 173);
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
+}
+
+section {
+  width: 30%;
+  display: inline-block;
+
+  margin: 4%;
+  padding: 25px;
+}
+section.Lenguajes {
+  display: inline-block;
+  width: 30%;
+  padding: 25px;
+  margin: 4%;
+}
+
+section.Experiencia {
+  width: 30%;
+  display: inline-block;
+
+  margin: 4%;
+
+  padding: 20px;
+}
+
+section.Contacto {
+  width: 30%;
+  display: inline-block;
+  margin: 4%;
+  padding: 25px;
+}
+h3 {
+  color: rgb(105, 105, 236);
+  font-weight: bold;
+}
